@@ -25,4 +25,5 @@ Motoristas do dia a dia que desejam um controle simples, rápido e sem complica�
 * **CI/CD:** GitHub Actions
 
 ## ⚙️ Como Instalar e Executar
-*(Instruções serão adicionadas assim que o código estiver pronto)*
+
+1. Clone o repositório:
