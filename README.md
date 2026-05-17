@@ -3,6 +3,22 @@
 **Versão:** 1.0.0
 **Autor:** Diogo Heberth
 
+## 🚀 Como Executar (Deploy)
+
+> Aplicação CLI em Python. Para executar localmente:
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/Diogo-652/autocar-cli.git
+cd autocar-cli
+
+# 2. Instale as dependências
+pip install -r requirements.txt
+
+# 3. Execute
+python main.py
+```
+
 ## 🎯 Qual problema estamos resolvendo?
 Muitos motoristas esquecem os prazos de manutenções preventivas básicas de seus veículos (como troca de óleo, calibragem de pneus e lavagem). Essa falta de controle gera riscos de segurança, diminui a vida útil do carro e causa prejuízos financeiros com manutenções corretivas. Além disso, muitas vezes o motorista esquece onde realizou um bom serviço ou onde abasteceu.
 
